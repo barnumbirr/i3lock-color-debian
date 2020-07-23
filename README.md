@@ -10,12 +10,12 @@ If you have [Docker](https://www.docker.com/) installed locally, just run the fo
 ```bash
 user@hostname$ ./build.sh
 ```
-By default this will build i3lock-color 2.12.c.4 on Debian Buster.
+By default this will build i3lock-color 2.12.c.5 on Debian Buster.
 
 If you want to customize the build at runtime, use the following:
 
 ```bash
-user@hostname$ ./build.sh -i debian:unstable-slim -v 2.12.c.1
+user@hostname$ ./build.sh -i debian:unstable-slim -v 2.12.c.4
 ```
 Don't forget to update `debian/changelog` so your package is generated with the correct version.
 
