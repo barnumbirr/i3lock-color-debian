@@ -10,7 +10,7 @@ If you have [Docker](https://www.docker.com/) installed locally, just run the fo
 ```bash
 user@hostname$ ./build.sh
 ```
-By default this will build i3lock-color 2.13.c.2 on Debian Buster.
+By default this will build i3lock-color 2.13.c.3 on Debian Buster.
 
 If you want to customize the build at runtime, use the following:
 
@@ -31,7 +31,7 @@ To publish a new package version to Github, follow these steps:
 ```
 BSD 3-Clause License
 
-Copyright (c) 2020, Martin Simon
+Copyright (c) 2020-2021, Martin Simon
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without

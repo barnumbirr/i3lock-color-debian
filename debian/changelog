@@ -1,3 +1,9 @@
+i3lock-color (2.13.c.3-1) unstable; urgency=medium
+
+  * New upstream release
+
+ -- Martin Simon <me@martinsimon.me>  Fri, 28 May 2021 00:00:00 +0000
+
 i3lock-color (2.13.c.2-1) unstable; urgency=medium
 
   * Version 2.13.c.2
