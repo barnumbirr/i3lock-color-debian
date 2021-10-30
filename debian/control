@@ -3,7 +3,7 @@ Section: utils
 Priority: optional
 Maintainer: Martin Simon <me@martinsimon.me>
 Build-Depends:
- debhelper (>= 11),
+ debhelper (>= 12),
  pkg-config,
  libpam0g-dev,
  libcairo2-dev,
@@ -20,7 +20,7 @@ Build-Depends:
  libxcb-util0-dev,
  libxkbcommon-dev,
  libxkbcommon-x11-dev,
-Standards-Version: 4.5.0
+Standards-Version: 4.5.1
 Homepage: https://github.com/Raymo111/i3lock-color
 
 Package: i3lock-color
